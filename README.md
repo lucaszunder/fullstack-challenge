@@ -1,6 +1,6 @@
 # FullStack Engineer Challenge
 -
-Olá, este é desafio técnico para a vaga de FullStack Engineer na MJC Delta! 🍽
+Olá, este é desafio técnico para a vaga de FullStack Engineer na MJC Delta!
 
 > Ao final do desafio, envie o repositório no GitHub com a sua solução para o email mjcdeltast@gmail.com.
 
